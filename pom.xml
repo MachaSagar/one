@@ -27,12 +27,12 @@
 	
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
+		    <id>nexusrepo</id>
 		    <url>http://52.15.118.102:8081/repository/sample-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
+		    <id>nexusrepo</id>
 		    <url>http://52.15.118.102:8081/repository/ashokit-releases/</url>
 		</repository>
   	</distributionManagement>
