@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.143.231.38:8081/repository/sagar-releases/</url>
+		    <url>http://18.219.41.107:8081/repository/sagar-new-repo/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.143.231.38:8081/repository/sagar-releases/</url>
+		    <url>http://18.219.41.107:8081/repository/sagar-new-repo/</url>
 		</repository>
   	</distributionManagement>
 	
